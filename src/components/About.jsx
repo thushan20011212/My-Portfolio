@@ -43,7 +43,7 @@ export const About = () => {
           <div className="flex justify-center">
             <div className="relative">
               <img
-                src="public\IMG_7465.JPG"
+                src="IMG_7465.JPG"
                 alt="About Me"
                 className="w-80 h-80 rounded-full object-cover shadow-4xl"
               />
