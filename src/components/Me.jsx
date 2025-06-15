@@ -75,7 +75,7 @@ export const Me = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-full bg-gradient-to-br from-blue-400 to-purple-600 p-2 transform hover:scale-105 transition-transform duration-300">
                 <img
-                  src="public\IMG_7465.JPG"
+                  src="IMG_7465.JPG"
                   alt="Profile"
                   className="w-full h-full rounded-full object-cover"
                 />
