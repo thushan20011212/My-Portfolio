@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTheme } from './hooks/useTheme';
 import { Header } from './components/Header';
-import { Me } from './components/ME';
+import { Me } from './components/Me';
 import { About } from './components/About';
 import { Skills } from './components/Skills';
 import { Services } from './components/Services';
